@@ -12,4 +12,9 @@ public with sharing class Calculate {
 
         return a-b;
     }
+
+    public static integer mul(integer a,integer b){
+
+        return a*b;
+    }
 }
