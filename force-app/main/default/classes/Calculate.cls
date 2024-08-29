@@ -7,4 +7,8 @@
 public with sharing class Calculate {
     public Calculate() {
 
-    }}
+    }
+public integer sub(integer a, ineteger b){
+    return a-b;
+}
+}
